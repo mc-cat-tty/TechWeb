@@ -13,14 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Introduzione.md",
+                "file": "2. Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8cf7b5bee6d38272",
+            "id": "ec9915e261495ccf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A. Storia del Web.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e841a1dfec77f614",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8cf7b5bee6d38272",
+  "active": "e841a1dfec77f614",
   "lastOpenFiles": [
-    "1. Introduzione.md",
-    "2. Python.md"
+    "B. Django.md",
+    "A. Storia del Web.md",
+    "2. Python.md",
+    "1. Introduzione.md"
   ]
 }
