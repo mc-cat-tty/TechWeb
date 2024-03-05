@@ -37,14 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Python.md",
+                "file": "B. Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e841a1dfec77f614",
+  "active": "7fd1b9a1c78f45cc",
   "lastOpenFiles": [
-    "B. Django.md",
     "A. Storia del Web.md",
+    "B. Django.md",
     "2. Python.md",
     "1. Introduzione.md"
   ]
