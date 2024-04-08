@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %} {{title}} {% endblock %}
+
+{% block content %}
+  Hi {{ client.name }}! <br/>
+
+  {% for user in userbase %}
+    {{ user.name }} of age {{ user.age }} <br/>
+  {% endfor %}
+{% endblock %}

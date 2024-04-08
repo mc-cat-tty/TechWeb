@@ -13,19 +13,79 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Python.md",
+                "file": "4. Django Template Language.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec9915e261495ccf",
+            "id": "53cd93e5023332b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A. Storia del Web.md",
+                "file": "4. Django Template Language.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "770d61810e9e2fb1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Risorse Statiche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3552f51f8f496f6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5. Risorse Statiche.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b25ba4209411453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Applicazioni.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ac943e3e81b6178d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "7. Modelli.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0231220e3507f0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8. First App.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +97,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "B. Django.md",
+                "file": "3. Django.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -109,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Python.md",
+                "file": "8. First App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Python.md",
+                "file": "8. First App.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,16 +210,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Python.md"
+                "file": "8. First App.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +231,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7fd1b9a1c78f45cc",
+  "active": "0231220e3507f0ff",
   "lastOpenFiles": [
-    "A. Storia del Web.md",
+    "Esercizi/Biblioteca/db.sqlite3-journal",
+    "Esercizi/Biblioteca/db.sqlite3",
+    "Esercizi/Biblioteca/gestione/urls.py",
+    "Esercizi/Biblioteca/gestione/migrations/__init__.py",
+    "Esercizi/Biblioteca/gestione/views.py",
+    "Esercizi/Biblioteca/gestione/tests.py",
+    "Esercizi/Biblioteca/gestione/models.py",
+    "Esercizi/Biblioteca/gestione/migrations",
+    "Esercizi/Biblioteca/gestione/apps.py",
+    "Esercizi/Biblioteca/gestione/admin.py",
+    "Esercizi/Biblioteca/gestione/__init__.py",
+    "7. Modelli.md",
+    "8. First App.md",
+    "6. Applicazioni.md",
+    "5. Risorse Statiche.md",
     "B. Django.md",
+    "3. Django.md",
+    "4. Django Template Language.md",
+    "A. Storia del Web.md",
     "2. Python.md",
+    "C. Recommendation Systems.md",
     "1. Introduzione.md"
   ]
 }
