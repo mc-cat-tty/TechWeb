@@ -114,9 +114,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "bcdd4e8cfc3bde1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Django Forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaca00ef742039ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "11. Autenticazione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b538b50ef62e4f93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Unit Testing in Django.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7ddf48c1d087c5b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C. Recommendation Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -182,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9. CRUD on DBs.md",
+                "file": "C. Recommendation Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9. CRUD on DBs.md",
+                "file": "C. Recommendation Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9. CRUD on DBs.md"
+                "file": "C. Recommendation Systems.md"
               }
             }
           }
@@ -243,12 +291,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63412975f3250082",
+  "active": "7ddf48c1d087c5b3",
   "lastOpenFiles": [
-    "7. Modelli.md",
-    "9. CRUD on DBs.md",
-    "8. First App.md",
+    "D. Unit Testing.md",
+    "A. Storia del Web.md",
+    "12. Unit Testing in Django.md",
+    "11. Autenticazione.md",
+    "10. Django Forms.md",
     "B. Django.md",
+    "C. Recommendation Systems.md",
+    "9. CRUD on DBs.md",
+    "7. Modelli.md",
+    "8. First App.md",
     "3. Django.md",
     "Esercizi/Biblioteca/db.sqlite3-journal",
     "Esercizi/Biblioteca/db.sqlite3",
@@ -263,9 +317,7 @@
     "6. Applicazioni.md",
     "5. Risorse Statiche.md",
     "4. Django Template Language.md",
-    "A. Storia del Web.md",
     "2. Python.md",
-    "C. Recommendation Systems.md",
     "1. Introduzione.md"
   ]
 }
