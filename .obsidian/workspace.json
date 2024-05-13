@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a1d8a5ef509c0122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "E. Cenni di Cloud-based computing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -254,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14. Client-side Technologies.md",
+                "file": "E. Cenni di Cloud-based computing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -271,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "14. Client-side Technologies.md",
+                "file": "E. Cenni di Cloud-based computing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "14. Client-side Technologies.md"
+                "file": "E. Cenni di Cloud-based computing.md"
               }
             }
           }
@@ -315,10 +327,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b5fee0bce313b00",
+  "active": "a1d8a5ef509c0122",
   "lastOpenFiles": [
-    "13. RESTful API.md",
     "14. Client-side Technologies.md",
+    "E. Cenni di Cloud-based computing.md",
+    "13. RESTful API.md",
     "12. Unit Testing in Django.md",
     "11. Autenticazione.md",
     "D. Unit Testing.md",
