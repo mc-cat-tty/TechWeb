@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Django Template Language.md",
+                "file": "15. Django Async.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,14 +193,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "E. Cenni di Cloud-based computing.md",
+                "file": "15. Django Async.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "E. Cenni di Cloud-based computing.md",
+                "file": "15. Django Async.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "E. Cenni di Cloud-based computing.md",
+                "file": "15. Django Async.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "E. Cenni di Cloud-based computing.md"
+                "file": "15. Django Async.md"
               }
             }
           }
@@ -327,18 +327,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1d8a5ef509c0122",
+  "active": "53cd93e5023332b8",
   "lastOpenFiles": [
+    "A. Storia del Web.md",
+    "B. Django.md",
+    "4. Django Template Language.md",
+    "15. Django Async.md",
     "14. Client-side Technologies.md",
-    "E. Cenni di Cloud-based computing.md",
     "13. RESTful API.md",
     "12. Unit Testing in Django.md",
     "11. Autenticazione.md",
+    "E. Cenni di Cloud-based computing.md",
     "D. Unit Testing.md",
     "C. Recommendation Systems.md",
-    "A. Storia del Web.md",
     "10. Django Forms.md",
-    "B. Django.md",
     "9. CRUD on DBs.md",
     "7. Modelli.md",
     "8. First App.md",
@@ -355,7 +357,6 @@
     "Esercizi/Biblioteca/gestione/admin.py",
     "6. Applicazioni.md",
     "5. Risorse Statiche.md",
-    "4. Django Template Language.md",
     "2. Python.md",
     "1. Introduzione.md"
   ]
