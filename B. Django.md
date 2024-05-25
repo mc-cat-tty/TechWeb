@@ -1,3 +1,24 @@
+# Framework web
+>Un framework fornisce lo scheletro, dell'applicazione. Fornisce una comoda base su cui costruire.
+
+A differenza di una accozzaglia di libreria si trova al centro del progetto. Utilizzando le librerie è il nostro codice al centro.
+
+Forniscono admin, page, ORD (scelta del DB diventa una configurazione rapidissima, non servono query nel codice perché autogenerato), ...
+
+## Modello MVC
+Si compone di:
+- **Model** modellazione dei dati (schema dati, accesso, interpretazione, relazioni, ...). Vedi Object Relational Database.
+- **View** possono esistere più viste dell'applicazione. Ad esempio mobile vs desktop.
+- **Controller** interagisce tra view e modello. Esegue azioni sul modello guidato da eventi.
+
+Il modello è "blindato", fornisce information hiding e può essere acceduto solamente mediante l'interfaccia esposta.
+La vie 
+
+Fornisce information hiding, disaccoppiamento, DRY - Don't Repeat Yourself.
+
+
+#Attenzione possono cambiare ruoli e interazioni. Ad esempio il controller potrebbe essere accentrato, recuperare la vista, renderizzarla e rispondere al client HTTP.
+
 # Modelli
 ## Modello MVC
 Si compone di:

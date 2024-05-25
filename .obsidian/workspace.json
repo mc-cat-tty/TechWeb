@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. Django Async.md",
+                "file": "13. REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "13. RESTful API.md",
+                "file": "13. REST.md",
                 "mode": "source",
                 "source": false
               }
@@ -193,14 +193,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "15. Django Async.md",
+                "file": "11. Autenticazione.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -250,7 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 223.51103591918945
   },
   "right": {
     "id": "6d93dee0b6a038ae",
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "15. Django Async.md",
+                "file": "11. Autenticazione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "15. Django Async.md",
+                "file": "11. Autenticazione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "15. Django Async.md"
+                "file": "11. Autenticazione.md"
               }
             }
           }
@@ -327,24 +327,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53cd93e5023332b8",
+  "active": "a1d8a5ef509c0122",
   "lastOpenFiles": [
-    "A. Storia del Web.md",
-    "B. Django.md",
-    "4. Django Template Language.md",
-    "15. Django Async.md",
+    "13. REST.md",
     "14. Client-side Technologies.md",
-    "13. RESTful API.md",
-    "12. Unit Testing in Django.md",
-    "11. Autenticazione.md",
-    "E. Cenni di Cloud-based computing.md",
-    "D. Unit Testing.md",
-    "C. Recommendation Systems.md",
+    "15. Django Async.md",
     "10. Django Forms.md",
+    "B. Django.md",
+    "A. Storia del Web.md",
     "9. CRUD on DBs.md",
     "7. Modelli.md",
+    "12. Unit Testing in Django.md",
+    "11. Autenticazione.md",
     "8. First App.md",
+    "D. Unit Testing.md",
+    "C. Recommendation Systems.md",
+    "2. Python.md",
     "3. Django.md",
+    "5. Risorse Statiche.md",
+    "4. Django Template Language.md",
+    "E. Cenni di Cloud-based computing.md",
     "Esercizi/Biblioteca/db.sqlite3-journal",
     "Esercizi/Biblioteca/db.sqlite3",
     "Esercizi/Biblioteca/gestione/urls.py",
@@ -356,8 +358,6 @@
     "Esercizi/Biblioteca/gestione/apps.py",
     "Esercizi/Biblioteca/gestione/admin.py",
     "6. Applicazioni.md",
-    "5. Risorse Statiche.md",
-    "2. Python.md",
     "1. Introduzione.md"
   ]
 }
