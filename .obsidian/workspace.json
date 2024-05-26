@@ -193,7 +193,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11. Autenticazione.md",
+                "file": "10. Django Forms.md",
                 "mode": "source",
                 "source": false
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11. Autenticazione.md",
+                "file": "10. Django Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11. Autenticazione.md",
+                "file": "10. Django Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +306,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11. Autenticazione.md"
+                "file": "10. Django Forms.md"
               }
             }
           }
@@ -315,7 +315,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,21 +330,23 @@
   },
   "active": "a1d8a5ef509c0122",
   "lastOpenFiles": [
+    "7. Modelli.md",
+    "9. CRUD on DBs.md",
+    "10. Django Forms.md",
+    "11. Autenticazione.md",
     "13. REST.md",
+    "8. First App.md",
+    "6. Applicazioni.md",
+    "3. Django.md",
+    "2. Python.md",
+    "1. Introduzione.md",
     "14. Client-side Technologies.md",
     "15. Django Async.md",
-    "10. Django Forms.md",
     "B. Django.md",
     "A. Storia del Web.md",
-    "9. CRUD on DBs.md",
-    "7. Modelli.md",
     "12. Unit Testing in Django.md",
-    "11. Autenticazione.md",
-    "8. First App.md",
     "D. Unit Testing.md",
     "C. Recommendation Systems.md",
-    "2. Python.md",
-    "3. Django.md",
     "5. Risorse Statiche.md",
     "4. Django Template Language.md",
     "E. Cenni di Cloud-based computing.md",
@@ -356,8 +359,6 @@
     "Esercizi/Biblioteca/gestione/models.py",
     "Esercizi/Biblioteca/gestione/migrations",
     "Esercizi/Biblioteca/gestione/apps.py",
-    "Esercizi/Biblioteca/gestione/admin.py",
-    "6. Applicazioni.md",
-    "1. Introduzione.md"
+    "Esercizi/Biblioteca/gestione/admin.py"
   ]
 }
